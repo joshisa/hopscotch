@@ -1,3 +1,6 @@
+// Credit to SeanJM
+// https://gist.github.com/romannurik/192538
+
 var proxyXHR = {};
 
 proxyXHR.get = function (url) {

@@ -1,3 +1,6 @@
+// Credit to SeanJM
+// https://gist.github.com/romannurik/192538
+
 chrome.extension.onConnect.addListener(function(port) {
   if (port.name != 'XHRProxy_')
     return;

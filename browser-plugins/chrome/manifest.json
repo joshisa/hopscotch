@@ -14,10 +14,10 @@
     "scripts": ["js/background.js"]
   },
   "web_accessible_resources": [
-    "https://cdn.rawgit.com/joshisa/huemix-blopscotch/master/js/hopscotch.min.js",
-    "https://cdn.rawgit.com/joshisa/huemix-blopscotch/master/js/tour.js",
-    "https://cdn.rawgit.com/joshisa/huemix-blopscotch/master/js/demo.js",
-    "https://cdn.rawgit.com/joshisa/huemix-blopscotch/master/js/spark.js"
+    "https://rawgit.com/joshisa/huemix-blopscotch/master/js/hopscotch.min.js",
+    "https://rawgit.com/joshisa/huemix-blopscotch/master/js/tour.js",
+    "https://rawgit.com/joshisa/huemix-blopscotch/master/js/demo.js",
+    "https://rawgit.com/joshisa/huemix-blopscotch/master/js/spark.js"
   ],
   "content_scripts": [
     {

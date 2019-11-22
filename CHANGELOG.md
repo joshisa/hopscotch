@@ -1,5 +1,24 @@
 ## Change Log
 
+### v0.3.0 (2017/06/02)
+ * [#337](https://github.com/linkedin/hopscotch/pull/337) Refactor build to generate UMD and AMD artifacts
+
+### v0.2.8 (2017/05/04)
+ * [#323](https://github.com/linkedin/hopscotch/pull/323) Fix the rest of the deprecated gradient warnings
+
+### v0.2.7 (2017/02/24)
+ * [#312](https://github.com/linkedin/hopscotch/pull/312) Generate templates without `with` keyword (now strict compatible)
+ * [#307](https://github.com/linkedin/hopscotch/pull/307) Avoid "Gradient has outdated syntax" error
+ * [#320](https://github.com/linkedin/hopscotch/pull/320) [Chore] Refactor notice; Bump year
+
+### v0.2.6 (2016/07/01)
+ * [#287](https://github.com/linkedin/hopscotch/pull/287) Add new items to .gitignore (ported over from gh72).
+ * [#275](https://github.com/linkedin/hopscotch/pull/275) Update jasmine version in package.json
+ * [#273](https://github.com/linkedin/hopscotch/pull/273) Fix unlisten method (wrong callback equals)
+ * [#253](https://github.com/linkedin/hopscotch/pull/253) Improve documentation of the target attribute of step elements.
+ * [#280](https://github.com/linkedin/hopscotch/pull/280) Miss a variable declaration
+ * [#291](https://github.com/linkedin/hopscotch/pull/291) Add error callback for showStep (Issue #274)
+
 ### v0.2.5 (2015/07/20)
  * [#188](https://github.com/linkedin/hopscotch/pull/188) [GH-188] No event called after tour is finished
  * [#193](https://github.com/linkedin/hopscotch/pull/193) [GH-190] Close button should be a button
